@@ -1,7 +1,7 @@
 <!--
  * @Date: 2022-02-23 13:48:48
  * @LastEditors: ChocoboQJJ
- * @LastEditTime: 2022-02-23 15:04:35
+ * @LastEditTime: 2022-02-24 17:01:30
  * @FilePath: \QPython\README.md
 -->
 ## QPython
@@ -13,3 +13,5 @@
 - PostgreSQL工具集
   - 创建PG连接
   - 自定义Select拼接查询
+  - 自定义Update拼接查询
+  - 自定义Delete拼接查询
